@@ -5,7 +5,7 @@
 
 
 
-<img height=180em src="https://github-readme-stats.vercel.app/api?username=Nestrovick&show_icons=true&theme=dark#gh-dark-mode-only https://github.com/medonca09/github-readme-stats#gh-dark-mode-only"> <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nestrovick&&theme=dark">
+<img height=180em src="https://github-readme-stats.vercel.app/api?username=Nestrovick&show_icons=true&theme=dark#gh-dark-mode-only https://github.com/Nestrovick/github-readme-stats#gh-dark-mode-only"> <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nestrovick&&theme=dark">
 
 <div style="display: inline_bloc">
 <img align="center" alt="Danilo-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
