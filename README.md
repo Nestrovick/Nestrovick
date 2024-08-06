@@ -4,8 +4,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nestrovick)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniloluiz2312@gmail.com)
 
+<div style="display: inline_block">
 <img height=180em src="https://github-readme-stats.vercel.app/api?username=Nestrovick&show_icons=true&theme=dark#gh-dark-mode-only https://github.com/Nestrovick/github-readme-stats#gh-dark-mode-only"> 
 <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nestrovick&&theme=dark">
+</div>
 
 <div style="display: inline_block">
 <img align="center" alt="Danilo-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
